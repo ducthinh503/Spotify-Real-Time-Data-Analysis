@@ -2,6 +2,6 @@
 
 ## 🏗️ System Architecture
 
-![System Architecture](docs/data_architecture.png)
+![System Architecture](docs/data architecture.png)
 
 ---
