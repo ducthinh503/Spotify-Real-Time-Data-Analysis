@@ -6,7 +6,7 @@
 
 ## 📊 Dashboard Overview
 
-![Dashboard](docs/dashboard.png)
+![Dashboard](docs/dashboard_final.png)
 
 ---
 ---
