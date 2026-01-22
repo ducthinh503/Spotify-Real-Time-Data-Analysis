@@ -4,4 +4,9 @@
 
 ![System Architecture](docs/data_architecture.png)
 
+## 📊 Dashboard Overview
+
+![Dashboard](docs/dashboard.png)
+
+---
 ---
